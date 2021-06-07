@@ -1,0 +1,30 @@
+<! DOCTYPE html >
+< html >
+
+< cabeça >
+    < estilo >
+        corpo {
+            fundo :  rgb ( 59 ,  57 ,  57 );
+        }
+
+        div {
+             fundo : branco;
+             borda :  9 px em amarelo sólido;
+             enchimento :  2 % ;
+             largura :  60 px ;
+             margem esquerda :  45 % ;
+             margem superior :  10 px ;
+             alinhamento de texto : centro;
+        
+        }
+
+    </ estilo >
+</ head >
+
+< corpo >
+    < div > Cícero </ div >
+    < div > Prático </ div >
+    < div > Heitor </ div >
+</ body >
+
+</ html >
